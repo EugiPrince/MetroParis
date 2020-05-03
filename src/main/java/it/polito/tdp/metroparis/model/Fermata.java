@@ -18,7 +18,6 @@ public class Fermata {
 		this.idFermata = idFermata;
 	}
 
-
 	public int getIdFermata() {
 		return idFermata;
 	}
